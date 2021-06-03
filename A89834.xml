@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of the Beast got into the seat of the false prophet, who hath opened his mouth in blasphemy, to deny the Father, and the Son, and the Spirit, or ought in man above nature, to guide man out of his natural estate; that so he might establish his beastly kingdome. Or, An answer to a paper set out by T. Winterton, wherein he would prove something against the Quakers if he could; but hath gone so far as he hath proved himself an atheist, without God, or the sure foundation; yet in his busie corrupt carnal senses would be a teacher, whereof all that loves the Lord are hereby warned; in love to your soules. / By a witnesse to the true light in spirit, called James Nayler.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89834</idno><idno type="EEBO-CITATION">99866498</idno>
+  <idno type="VID">118773</idno>
+  <idno type="EEBO-PROQUEST">2240953701</idno>
+  
+            <idno type="STC">Wing N271</idno>
+            <idno type="STC">Thomason E852_13</idno>
+            <idno type="STC">ESTC R207449</idno>
+            <idno type="PROQUEST">99866498</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866498e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118773)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E852[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of the Beast got into the seat of the false prophet, who hath opened his mouth in blasphemy, to deny the Father, and the Son, and the Spirit, or ought in man above nature, to guide man out of his natural estate; that so he might establish his beastly kingdome. Or, An answer to a paper set out by T. Winterton, wherein he would prove something against the Quakers if he could; but hath gone so far as he hath proved himself an atheist, without God, or the sure foundation; yet in his busie corrupt carnal senses would be a teacher, whereof all that loves the Lord are hereby warned; in love to your soules. / By a witnesse to the true light in spirit, called James Nayler.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>[2], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the year, 1655. for Giles Calvert.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Winterton, Thomas.  The quaking prophets two wayes proved false prophets.</note>
+                  <note>Title page signed [A2].</note>
+                  <note>Annotation on Thomason copy: "August. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118773:1"/>
+            <p>A DISCOVERY OF THE BEAST Got into the Seat of the <hi>FALSE PROPHET,</hi> Who hath opened his Mouth in Blasphemy, to deny the Father, and the Son, and the Spirit, Or ought in man above nature, to guide man out of his Natural estate; That so he might establish his beastly Kingdome.</p>
+            <p>OR, An Answer to a Paper set out by <hi>T. Winterton,</hi> wherein he would prove something against the Quakers if he could; but hath gone so far as he hath proved himself an Atheist, without God, or the sure foundation; yet in his busie Corrupt Carnal senses would be a Teacher, whereof all that loves the Lord are hereby warned; in love to your Soules.</p>
+            <p>By a witnesse to the true light in spirit, Called <hi>James Nayler.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>And I beheld another beast coming up out of the earth, and he had two hornes like a Lamb, but spoke like a Dragon: And the Beast was taken, and with him the false Prophet, that deceived them that had received the mark of the Beast: these both was cast alive into the lake of fire.</hi>
+               </p>
+               <p>
+                  <hi>Every spirit that confesseth not that Jesus Christ is come in the flesh is not of God; And this is that spirit of Antichrist whereof ye have heard that it should come, and even now already is it in the world,</hi>
+               </p>
+               <bibl>1 John 4. 3.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>But we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him: He that hath the Son hath life; he that hath not the Son, hath not life,</hi>
+               </p>
+               <bibl>1 Joh. 5. 12, 19, 20.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1655. for <hi>G<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les Calvert.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:118773:2"/>
+            <pb n="1" facs="tcp:118773:2"/>
+            <opener>
+               <salute>Friend,</salute>
+            </opener>
+            <p>THou art going about to prove the Qua<g ref="char:EOLhyphen"/>kers to be false Prophets; but all that know the true Prophet, or the Scriptures by his Spirit given forth, may clearly see thou hast proved thy selfe an Atheist, and one that knowes not that which is before nature was, to guide thee out of thy naturall condition; and so in thy naturall faculties (as thou called them) art judging of the things of the spirit of God; for the manifesting whereof, I shall take a few of thy own Opinions, and lay them open to be judged with the spirit of God that was in the Saints de<g ref="char:EOLhyphen"/>clared in Scripture: As to that betwixt <hi>Edward Burrough</hi> and thee (as to the Queries) I shall say little to, seeing they are published: let the truly wise Judge thereof, who may see thy vain scornful spirit from which thou speaks, not as be<g ref="char:EOLhyphen"/>comming one professing godliness, nor sobri<g ref="char:EOLhyphen"/>ety.</p>
+            <p>In thy Epistle to the Reader, thou tells how long thou hast been led with thy imaginations: whereupon making a through-search, thou re<g ref="char:EOLhyphen"/>turned with thy adventure, the which amounted to no lesse then being deceived: however, thy love and desires are still as strong, and thy spirit as free to serve God, whensoever he shall be free to set thy feet upon a sure ground, <hi>&amp;c.</hi> however, thou would be loath to change thy condition with those that assume an infallible spirit, or
+<pb n="2" facs="tcp:118773:3"/> something in them above nature, the which they cannot demonstrate to a naturall capacity, be<g ref="char:EOLhyphen"/>cause if they were disabled, and nothing left but what they had of this, it might prove a tedi<g ref="char:EOLhyphen"/>ous work to finde in the world a lesser thing then they.</p>
+            <p>I say, the sure ground is the infallible spirit which is above nature, and before nature was, which the naturall man is not capable of; and thou that art off from this ground, and hast not this spirit: what hast thou that's worth chan<g ref="char:EOLhyphen"/>ging, or what did thou make thy through search withall? seeing no other spirit hath power to judge the imaginations, but this infallible spirit which is above nature, and it only searches and<note place="margin">1 <hi>Cor.</hi> 2.</note> judges the naturall imaginations; and thou that<note place="margin">14. 15.</note> hast searched and judged without this, art led in thy imaginations still; and so one imagination searcheth and judgeth another in thee: and thou and thy imaginations are judged and searched by that spirit of Christ which searcheth all<note place="margin">1 <hi>Cor.</hi> 2. 10</note> things, even the deep things of God. And thou that knows not something in thee above Nature, thou knowest not Christ in thee, &amp; from thy own mouth the spirit of Christ declares thee a Re<g ref="char:EOLhyphen"/>probate, 2 <hi>Cor.</hi> 13. 5. <hi>and if any man have not the spirit of Christ, he is none of his.</hi> Rom. 8. 9. <hi>but who hath the spirit of Christ, hath the infallible spirit:</hi> and here thy condition is judged, which thou would be loath to change, for something above nature: so all thou hast proved in this, is but thy selfe a Reprobate, and that naturall man that receives net the things of the spirit of God, which are a<g ref="char:EOLhyphen"/>bove
+<pb n="3" facs="tcp:118773:3"/> nature; because this would disable thee in thy Imaginations, and make thee little in the World, had thou nothing left but this: for self is nothing vvhere this is received; which never<note place="margin">
+                  <hi>John</hi> 1. 13.</note> came by the will of man, and in that will thou stands who vvill not change thy condition: and this is thy first born thou hast put forth; vvhich is naturall and blind; and (as thou sayes) thou fears there be many faults thou sees not: yet that blind eye that sees not faults in thy self will be judging others, and judging that Spirit that is above nature; and this is thy adventure of Ima<g ref="char:EOLhyphen"/>ginations thou art returned withall, and with it<note place="margin">
+                  <hi>Jude</hi> 10.</note> thou now adventures to judge that thou knovves not, nor any who are not on the sure ground, and above nature: yet with this blind eye thou sets on work to shevv the light of Christ what it is: but to do this thou changes thy method; and in this thy Method thou pleases thy Imagi<g ref="char:EOLhyphen"/>nations, to shape questions as thou thinkest thou may best answer them; yet being blind, thou asks thy self what thou confesses thou knovves not.</p>
+            <p>And first, thou asks whether Christ lightneth every man that cometh into the World inward<g ref="char:EOLhyphen"/>ly or outwardly; and thy ansvver is, Both: Se<g ref="char:EOLhyphen"/>condly, thou asks, Hovv can that be made ap<g ref="char:EOLhyphen"/>pear? Thy ansvver is, The same ground that proves he lightneth man in any part, the same proves he lightneth man in every part where light appears.</p>
+            <pb n="4" facs="tcp:118773:4"/>
+            <p>I say, that which thou art to shevv is the ap<g ref="char:EOLhyphen"/>pearance of invvard light as well as outvvard light, and that in every man that comes into the vvorld; the ground of vvhich appearance thou sayes is, That vvhich proves he lightens man in any part, proves that he enlightens man in eve<g ref="char:EOLhyphen"/>ry part; so the same ground that makes appear to every man that he is not bodily blind, the same ground makes appear the light of Christ in Spirit that he is not spiritually blind, and this in every man; else hast thou said nothing to the purpose: so by this, he that hath but bo<g ref="char:EOLhyphen"/>dily eyes, hath the ground of all spiritual light; and in thy Epistle thou thy self art but waiting to have thy feet set on the sure ground, so thou that art not on that ground by thy doctrine art bodily blind; and this confusion thou calls plain<g ref="char:EOLhyphen"/>nesse to the understanding: but understands not what thou sayes thy self; but in all this, how hast thou made the inward spiritual light appear to every man that comes into the World? here both blind, and light, may judge thee that thou hast left them as dark as they was, only manife<g ref="char:EOLhyphen"/>sted thy own confusion.</p>
+            <p>Thy next Question is, What is that which Christ lightens man with? And thy Ansvver is, None can really tell what it is in its real essence and being.</p>
+            <p>I say, if thou had said, No Atheist who hath nought in them above nature can tell, then had thou said true; but, that none can really tell, is a
+<pb n="5" facs="tcp:118773:4"/> lye: for who knovves Christ in them knowes his light that led them to him and reveal'd him in them; but, this is seen and knovvn by faith, and not to thy natural senses thou tells on; which presents things to thy judgment; and the Gospel Ministers who preached the light, preached what they knew, and not what they knevv not, but such lived by faith, and not by sense. And thou mayest preach thy own Ignorance; but thou canst not preach his light, who hath Christ in him; That the beast knowes not.</p>
+            <p>Another Question thou asks, What are the effects of light? And thy Answer is, It disco<g ref="char:EOLhyphen"/>vers unto man visible forms.</p>
+            <p>I say, here thou manifests what light thou knovves, and what it discovers to thee vvho art but in visible things; but knovves not that light that shewes him that is invisible and without form, and such as thou must needs worship thou knovv not what, or else nought at all but your own lusts, whose eye sees no farther but visible forms: so they who desire to be led blind may come to thee and receive thy discovery of visible forms instead of the invisible God; but the chil<g ref="char:EOLhyphen"/>dren<note place="margin">
+                  <hi>Heb.</hi> 11. 27.</note> of light have found a better teacher. And thou goes on to make people believe that it is not properly light, but is figuratively cal<g ref="char:EOLhyphen"/>led<note place="margin">
+                  <hi>John</hi> 8. 12.</note> light: Thou Child of darknesse, is not the light of Christ proper; and what is it that the light of Christ doth figure out? Is it not that which is before all Figures was, and by which all Figures was made, which
+<pb n="6" facs="tcp:118773:5"/> thou art passing thy blind sentence upon, who before said, None could tell what it is, and now thou judges it a Figure, not proper: art thou not here judging thou knowes not what by thy own confession? And thou that knovves not what it is in its being, goes about to tell where it is sea<g ref="char:EOLhyphen"/>ted and where it is not seated; and thou sayes there is no knovving, no believing, no affecting, no liking nor disliking, but it arises and proceeds from the determination of the understand<g ref="char:EOLhyphen"/>ing.</p>
+            <p>I say, the Lord saith, <hi>I will destroy the wisdome</hi>
+               <note place="margin">3 <hi>Cor.</hi> 1. 19.</note>
+               <hi>of the wise, and bring to nought the understanding of the prudent;</hi> and this is either liked or disli<g ref="char:EOLhyphen"/>ked: but doth this proceed from the determina<g ref="char:EOLhyphen"/>tion of the understanding, that brings the under<g ref="char:EOLhyphen"/>standing to nought? or from the determination of him that gives the right understanding in spirit, and hides it as he pleases from the wise<note place="margin">
+                  <hi>Mat.</hi> 11. 25.</note> and prudent? but him thou knowes not (no more then thou dost the light), who hath brought to nought thy determinations (touching him) and thy understanding also, so thou utterest thy con<g ref="char:EOLhyphen"/>fusion; and darkens Counsel, by words with<g ref="char:EOLhyphen"/>out knowledge.</p>
+            <p>Again, thou asks a Question, <hi>Doth every man bring into the world this light that Christ lightneth every man withall, in full perfection?</hi> Thy Answer is, <hi>For the outward eyes they are perfect at their coming or never perfect; but for the light of the un<g ref="char:EOLhyphen"/>derstanding, they bring in that as they bring in their full strength, that is, a Capacity to grow to it.</hi>
+            </p>
+            <pb n="7" facs="tcp:118773:5"/>
+            <p>I say, the light of Christ is not of the Creatures bringing in, but by the power of it is the crea<g ref="char:EOLhyphen"/>ture brought into the world, nor doth every one grow in the light of Christ, as he growes in na<g ref="char:EOLhyphen"/>turall strength; for then every perfect man in natural strength should have the perfect know<g ref="char:EOLhyphen"/>ledge; for where the light is perfectly received, there God is perfectly known; but where the light is but in part, there knowledge is in part, and the growth of this light is not by naturall course; but as it is received, believed, and fol<g ref="char:EOLhyphen"/>lowed; and some who believe not in it, are still in darkness with thee, who sayes, none can tell what the light is, nor its being, and yet sayes, the creatures brings it in as they bring in their full strength: so they bring in, none can tell what, nor where its being is: and this blinde mingled stuffe is thy first born, who art born blinde, and come to the strength of a man naturally, and yet knowes not the light of Christ, nor its being, and yet sayes, it comes in as they growe to their full strength: When wilt thou come to thy perfect strength, to know what thou talks on, who art teaching others what the light of Christ is in plainness (as thou sayes) and then plainly sayes, none can tell what it is: so in plainness thou art teaching thou knowes not what, and would make all believe, none know more then thou, that thou mightest at once shut the Kingdom against all that will believe thee. And all thou knowes of the light of Christ and its growth, is but as the old Wolfe, growes more subtil then the young,
+<pb n="8" facs="tcp:118773:6"/> but knowes not the Child that is to lead them:<note place="margin">
+                  <hi>Isaiah</hi> 11. 4.</note> thou sayes further, that there are five faculties in man, which are the grounds of all his actions, which is his senses, his understanding, his will, his imaginations, and his lust.</p>
+            <p>I say, thou art that man, and speaks thy own condition, thy guide and ground, who art not on the everlasting true ground, and so art guided by thy own senses, understanding, will, imagina<g ref="char:EOLhyphen"/>tions, and lust; and so, as I said, thou hast proved thy self an Atheist, and knowes not that to guide, the which was before these was, and leads to the end of all these, and above all these, contrary to all these, whose wayes are not mans wayes, nor<note place="margin">
+                  <hi>Isa.</hi> 55. 8, 9.</note> his thoughts like mans thoughts, which none of the Princes of this World, who had all these,<note place="margin">1 <hi>Cor.</hi> 2. 6, 7, 8.</note> could receive, nor can receive, which is born contrary to the will of all men living, their ima<g ref="char:EOLhyphen"/>ginations and lusts; which lives by faith and not<note place="margin">2 <hi>Cor.</hi> 5. 7.</note> by sight, which is believed on, before it is born<note place="margin">
+                  <hi>Psal.</hi> 116. 10.</note> up in the understanding, by which the sensual is judged and seen to be earthly, devillish and car<g ref="char:EOLhyphen"/>nall: and they who had these five faculties, and were guided by them, crucified the Lord of life: and so doth all now, who have no better ground for all their actions then natural faculties, and this is not the light of Christ that leads to cruci<g ref="char:EOLhyphen"/>fie Christ; but this is thy first-born, who slew <hi>Abel</hi> and all the righteous blood since, and here thy false ground is seen, who art not on the safe ground.</p>
+            <pb n="9" facs="tcp:118773:6"/>
+            <p>And thou sayes, its the office of the senses to inform the understanding: the office of the un<g ref="char:EOLhyphen"/>derstanding is to judge and determine, and the office of the will is to put the body upon action.</p>
+            <p>I say, thy Atheisme thou art not ashamed to profess openly, who hath thy understanding in<g ref="char:EOLhyphen"/>formed by thy sensual wisdom, and with thy un<g ref="char:EOLhyphen"/>derstanding so informed, thou judges, and in thy ovvn Will so acts: and before thou said Christ enlightned the understanding; What, is thy senses become Christ? but thou that judges by thy sensual information, art at liberty to say what thou will, and deny when thou will; so thou hast proved thy words true in this thou hast no infallible spirit, nor ought in thee above na<g ref="char:EOLhyphen"/>ture to judge withall, but what thou knovves naturally as bruit beasts, therein thou corrupts thy self; but all the Children of the light knowes<note place="margin">
+                  <hi>Jude</hi> 10.</note>
+               <note place="margin">
+                  <hi>John</hi> 5, 2<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> that all judgment is committed to the Son, both in Heaven and Earth; but thy corrupt under<g ref="char:EOLhyphen"/>standing is not the Son, and such as knovv this, dare not judge before the Lord come, who both will bring to light the hidden things of dark<g ref="char:EOLhyphen"/>nesse, and manifest the counsels of the hearts, and acts his creatures above their sensual understand<g ref="char:EOLhyphen"/>ings<note place="margin">
+                  <hi>John</hi> 3. 5, 6.</note>, their wills and imaginations; but this the first born knovves not, who hath nought in them above nature.</p>
+            <p>And sayes thou, <hi>The office of the will or affections is to put the body upon action, according to deter<g ref="char:EOLhyphen"/>mination good or bad.</hi>
+            </p>
+            <pb n="10" facs="tcp:118773:7"/>
+            <p>Here again thou shevvs thy beastly guide, who<note place="margin">
+                  <hi>Gal.</hi> 5. 24.</note> art setting up the will and affections to be guide, but knowes not that which crucifies the vvill and affections, and leads contrary to them; vvhereby they come to be mortified, him thou knowes not, who in us worketh both the will and the deed of<note place="margin">
+                  <hi>Phil.</hi> 2. 13.</note> his good pleasure. Thou blind guide! vvas not Christ to do his ovvn Will, which vvas not sin<g ref="char:EOLhyphen"/>full;<note place="margin">
+                  <hi>Joh.</hi> 6. 38.</note> and art thou setting up the vvill of the fal<g ref="char:EOLhyphen"/>len man for a guide to put the body in action? thou needs not preach this doctrine: vvho is it that acts not after the determination of his ovvn will? only those vvho knovves the Crosse of Christ, and the povver of it; and something in them above nature; no Scripture came by the<note place="margin">2 <hi>Pet.</hi> 1. 21.</note> vvill of man, nor is any thing born of God but is contrary to the vvill of man, yet hath man these faculties before the new birth; and the will of the new, and his judgment and under<g ref="char:EOLhyphen"/>standing and affections is all contrary to the old: thus would thou make the light of Christ, and the will and affections of fallen man to be one guide, but hovv all is made nevv thou knovves not; hovv should thou who makes a scoffe at any thing in man above nature, know him that is spiritual, who guides out of the World? and fallen nature the naturall man knowes not the things of the Spirit of God, nor<note place="margin">1 <hi>Cor.</hi> 2. 14, 15.</note> can do his Will, but the spiritual doth, and judgeth all things.</p>
+            <p>Further thou sayes, <hi>While a man acts from the three first, distinct from the two latter, his actions are
+<pb n="11" facs="tcp:118773:7"/> pure without the least injustice or deceit, or provoca<g ref="char:EOLhyphen"/>tion thereunto, neither can he; for first, the senses they deliver up to the understanding what they par<g ref="char:EOLhyphen"/>take of without the least self-end, and the understand<g ref="char:EOLhyphen"/>ing judges as purely, &amp;c.</hi>
+            </p>
+            <p>I say, What is that the senses partake on in such as thee, who knovves nought in thee above nature to guide the senses? doth it not then partake from belovv, which the Apostle calls<note place="margin">
+                  <hi>James</hi> 3. 15.</note> earthly sensual and devillish; will this being delivered to the understanding keep from deceit and injustice? nay, they who have this understanding, therewith think they do God service and justly, when they imprison and put to death the body for the Name of Christ in the body, and this sense is in thee who scoffes at ought in man above nature, and would do more, hadst thou povver; and with this under<g ref="char:EOLhyphen"/>standing all the World becomes enemies of God: but dost thou not as much scoffe at the Name of God (if thou vvould speak thy heart) as thou dost at something in man above nature, and the infallible Spirit; for thou that knovves nought in man above nature, knovves no more God then the Devill doth: for, saith <hi>Paul,</hi> Rom. 1. that which may be knovvn of God is mani<g ref="char:EOLhyphen"/>fest in them, which thou ownes not above na<g ref="char:EOLhyphen"/>ture: so thou that knovves not God above na<g ref="char:EOLhyphen"/>ture<note place="margin">
+                  <hi>Gall.</hi> 4. 6, 8,</note> in thee, serves them which by nature are no gods, (thy five faculties) and vvith them thou art guided.</p>
+            <pb n="12" facs="tcp:118773:8"/>
+            <p>Another Question thou asks, <hi>What is the effects of conscience?</hi> Thy Answer is, <hi>First it must be known upon what it works:</hi> And thou saith, <hi>it hath not any ground but in one single opinion; that is when the understanding shall fully determine that there is a place of everlasting plagues, wherein the sons of men or some degree of them shall be tormen<g ref="char:EOLhyphen"/>ted for ever;</hi> and thou sayes, <hi>Whosoever doth de<g ref="char:EOLhyphen"/>termine thus, also determines his own case; now</hi> (sayes thou) <hi>when a person comes to be possest with this confidence that he shall be damned, if now he be inclined to fear, Conscience now blowes a flame about him, and like an executioner presents unto his pre<g ref="char:EOLhyphen"/>sent view all those plagues, as if they were in present being, to the wounding of his spirit, that no man can bear, but seek all means to destroy themselves.</hi> Again, <hi>he that stands doubtful, conscience hath not that power over him; yet if he be inclin'd to fear, conscience will even be snarling at him, and keeping him from ex<g ref="char:EOLhyphen"/>travagancies; and this is all the good that conscience doth, to make a man that is vitiously inclin'd, be ar<g ref="char:EOLhyphen"/>tificially honest.</hi>
+            </p>
+            <p>I say, Thou that talks of false Prophets, must thy self be proved by the true Prophet and his Apostles; they held the mystery of faith in a<note place="margin">1 <hi>Tim.</hi> 3. 9.</note> pure conscience, and their rejoycing was the testimony of their conscience, not with fleshly<note place="margin">2 <hi>Cor.</hi> 1. 12.</note> wisdome; but the ground of thy conscience is in opinion, and thy honesty artificial: Christ saith, Those that do not minister to the hungry,<note place="margin">
+                  <hi>Mat.</hi> 25 44, 46.</note>
+               <pb n="13" facs="tcp:118773:8"/> or strangers, or naked, or prisoners, shall go in<g ref="char:EOLhyphen"/>to everlasting punishment: but this with thee is a thing determined by the understanding; The Saints was saved by the answer of a good<note place="margin">1 <hi>Pet.</hi> 3. 21.</note> conscience towards God, and by the blood of Christ through the eternal spirit had their con<g ref="char:EOLhyphen"/>sciences<note place="margin">
+                  <hi>Heb.</hi> 9. 14.</note> purged from dead works to serve the living God, and they were subject for conscience<note place="margin">
+                  <hi>Rom.</hi> 13. 5</note> sake. And this rule thou would make people believe was but as the person stood inclin'd to fear or doubt, or without fear: so (with thee) without fear, without condemnation; least fear of God, most peace: I knovv the peace of the beast is to be out of the yoak, and the colt to be out of the bridle, so thou without fear: but thou wilt knovv that the wicked, yea and they that forget God, must be turned into hell; then shalt thou see his words true that said, <hi>Happy is</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 28. 14.</note>
+               <hi>that man that feareth alwayes; but he that hardeneth his heart shall fall into mischief:</hi> though novv a seared conscience be thy most peace; and con<g ref="char:EOLhyphen"/>science cannot be of much worth in thy account, who hast not in thee, above nature, to exercise it; thy ground being but opinion, thy judgment is no more but imagination.</p>
+            <p>Thou sayes, <hi>The glorious actions of the sons of men is from a natural inclination of delight to do justly, and this</hi> (thou sayes) <hi>is a dye in grain will never change; let him change his opinion, or change his Religion, yet his actions will be the same.</hi>
+            </p>
+            <pb n="14" facs="tcp:118773:9"/>
+            <p>I say, the glorious actions of the Sons of God,<note place="margin">
+                  <hi>Hos.</hi> 14. 9.</note> is from an inclination to that spirit of Justice<note place="margin">
+                  <hi>Psal.</hi> 89. 14.</note> which is before nature was, the ground of all Justice that God accepts, and that Religion<note place="margin">
+                  <hi>The Lord is the habita<g ref="char:EOLhyphen"/>tion of Ju<g ref="char:EOLhyphen"/>stice,</hi> Jer. 50. 7.</note> that never changes, vvhich condems all change<g ref="char:EOLhyphen"/>able opinions: and thou whose Religion is but a changeable opinion, and hast thy honesty by art, thy Justice is not everlasting; they that knowes no better may believe thee, and trust thee: for I know that which exercises the con<g ref="char:EOLhyphen"/>science void of offence in righteousnesse towards<note place="margin">
+                  <hi>Acts</hi> 24. 16.</note> God and towards man is one: and if the first be but a changeable opinion, I am sure the se<g ref="char:EOLhyphen"/>cond is no everlasting truth; and thy conscience whose ground is but an opinion, thou may well say the ground of thy actions is natural; but all who knowes the eternal ground denyes thee and them both, and knowes that he that is change<g ref="char:EOLhyphen"/>ble as to God, cannot be just as to men but for self-ends.</p>
+            <p>In thy last (thou sayes) <hi>The Quakers speak of a light in the conscience, and of the senses acting in disobedience, and of a true light: but if they would lay down these things in a methodical way, so the peo<g ref="char:EOLhyphen"/>ple might out of their own understanding feel them working in them, it were something.</hi>
+            </p>
+            <p>I say, silence deceit, and learn to speak truth; the Quakers speaks of no light in the conscience but the true light, vvhich the natural man with his sensual wisdome and imagined light which is not above nature, acts in disobedience to
+<pb n="15" facs="tcp:118773:9"/> the true light of Christ which shines in the dark heart, where the darknesse of wisdome and prudence, and all imaginations is; from<note place="margin">
+                  <hi>Matth.</hi> 11. 25.</note> which the things of Christ are hid; and thou that wouldst hear these things revealed to the Worlds vvisdome and sensuall understanding, which God hath hid from all but babes, canst not teach God a way; thou must first learn to believe before thou feel its working; the power of God is received by faith above nature, and not in the sensual understanding.</p>
+            <p>Thou sayes, <hi>Mans chiefest certainty lyeth within the reach of his senses.</hi>
+            </p>
+            <p>I say, That's thy chiefest certainty who knows nought above nature in thee; but our chiefest certainty is by faith in Christ, which the natural senses could never comprehend; and what cer<g ref="char:EOLhyphen"/>tainty canst thou judge of, who denies the In<g ref="char:EOLhyphen"/>fallible Spirit? is thy certainty ought but car<g ref="char:EOLhyphen"/>nall which must perish with thee, like the beast?</p>
+            <p>Thou sayes we tell people, <hi>That the senses and faculties are carnal, and contrary to the true light, the which is to believe our infallibility; and having brought people to believe this, they are not only made uncapable of trying the truth of their doctrines, but fitted to fall down before the greatest Idols in the world, &amp;c.</hi>
+            </p>
+            <p>I say, Is not those senses and faculties carnal which have nought to guide them above nature?<note place="margin">1 <hi>Cor.</hi> 3. 1, 3.</note> all that knowes what spirituall is may judge<note place="margin">Ro. 8. 6, 7.</note> thee who denyes these to be carnall, and so con<g ref="char:EOLhyphen"/>trary
+<pb n="16" facs="tcp:118773:10"/> to the true light; but is it become a scoffe with thee to teach people to believe the infalli<g ref="char:EOLhyphen"/>ble Spirit: thou blasphemer, is there any other object of faith to be believed, but that which is infallible: and doth faith in that Spirit disable<note place="margin">
+                  <hi>Acts</hi> 1. 3.</note> them for trying the doctrines? is there any other thing can try doctrines, but that which is infal<g ref="char:EOLhyphen"/>lible? or is there any spirit that's not infallible that can keep from falling down to worship Idols: nay, doth not all worship Idols who be<g ref="char:EOLhyphen"/>lieves not in this Spirit? Is this thy teaching and testimony, to deny the infallible Spirit, and set up thy sensual naturall faculties in his stead? thou enemy of God, what must people believe in, if not in that which is infallible? thou right<g ref="char:EOLhyphen"/>ly calls this thy first-born; and a shameful birth it ts, which is not born of God, but of thy falilible faculties. Thou never read in Scripture of such Teachers; thou art worse then <hi>Balaam,</hi> who durst not act according to his own faculties: dost thou not here strike at the foundation of truth? can a falliable foundation keep the creatures from falling? is this thy way to keep from Idols, by denying faith in the infallible Spirit? Herein <hi>Jupiter</hi> and thou art both one; this is thy will thou wouldst have accepted for the deed thou toldst one in thy Epistle, &amp; thy first fault thou wouldst have pardoned before-hand; the least child of light sees thee and thy doctrine of Devils and damnable Heresies, who denyes the Lord God and Christ Jesus the Son to be in the Saints, and makes a scoffe at any thing in man above nature.</p>
+            <pb n="17" facs="tcp:118773:10"/>
+            <p> And seeing thou talks of God and Christ and Scriptures, make proof that thou ownest them, and prove what thou hast holden out in thy Pa<g ref="char:EOLhyphen"/>per by plain Scripture, which thou hast subtilly holden out; such as these, That he that preaches faith in the infallible Spirit, juggles people out of their understanding, and fits them to fall down to worship Idols; or that he that hath not his feet upon a sure ground can judge the things of God, or teach others what the light of Christ is; That there is any sure ground of faith, but the infallible. That the ground and appea<g ref="char:EOLhyphen"/>rance of the Light of Christ is not above nature. That none can tell what the Light of Christ is, its essence and being. That the Light of Christ is not properly light but figurative. That there is no inward light but what is seated in the un<g ref="char:EOLhyphen"/>derstanding. That there is no believing nor knowing but what proceeds from the determi<g ref="char:EOLhyphen"/>nation of the understanding. That the crea<g ref="char:EOLhyphen"/>tures bring into the world the light of Christ, as they bring in their natural strength. That the five faculties is the ground of all action in the Saints. That the office of the natural under<g ref="char:EOLhyphen"/>standing is to judge of the things of God. That believers are to follow their own will according to the determination of their natural understan<g ref="char:EOLhyphen"/>ding, That the natural mans actions are pure, judges purely without self-ends. That consci<g ref="char:EOLhyphen"/>ence hath no ground but one single opinion. That Hell or the place of everlasting plagues stands in the determination of mans understand<g ref="char:EOLhyphen"/>ing;
+<pb n="18" facs="tcp:118773:11"/> or that the flames thereof shall fall most upon them that are most tender and in fear: And that he that doubts shall not have so much torment. That all that conscience is good for, is to make some men artificially honest. That the glorious actions of the sons of men proceeds from natural inclination that will never change. That mans chiefest certainty lyeth within the reach of the senses. That the five faculties thou speaks on are not carnal and fleshly. That in<g ref="char:EOLhyphen"/>fallibility is not the surest ground of faith, and surest tryer of doctrines, a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d strength against Idols.</p>
+            <p>These things and many more such like I find in thy Paper, which stand need of better proof then thy words, who knowes nought in thee above nature, or that is infallible; but these I have sent thee, look upon them; If thou say this be not thy meaning and intent in any one of them, give thy own meaning of thy own words; or if thou have said what thou now sees amisse, take it again, this I hold reasonable: but those thou affirms of them, prove them by plain Scripture; for else there is little wisdome for any who loves their soules, to believe what one sayes, without the Spirit of God in him, or Scripture given out from that Spirit, to prove what is said; I am sure, he that will be led with such, may soon be led to worship those Idols thou speaks on; his best guide being but Imaginations, who hath nought in him above nature: but we have not
+<pb n="19" facs="tcp:118773:11"/> our witnesse from men; so him that comes in his own name we deny. And if the Scriptures will not own thy spirit, nor ought in thee above na<g ref="char:EOLhyphen"/>ture, thou art to all that know the eternall Spi<g ref="char:EOLhyphen"/>rit, reprobate, and thy opinions.</p>
+            <p>And for thy telling of demonstrating the Spi<g ref="char:EOLhyphen"/>rit to a natural Capacity, I say, to them that<note place="margin">
+                  <hi>Mark</hi> 9, 22, 23.</note> can believe we can; for such onely are Capable, and to them onely it is possible: but if Christ himself could not demonstrate himself to be the light of the world, to such as thee, who would not believe ought in them above nature; though<note place="margin">
+                  <hi>John</hi> 3. 16, 18, 19, 20.</note> he told them the Kingdom of God was within them: and this unbelief was and is the Condem<g ref="char:EOLhyphen"/>nation; that light is come into the world, but the darknesse loved, and the light opposed. And here thou may read thy self, who under a pre<g ref="char:EOLhyphen"/>tence of teaching the light of Christ, would wholly put it out, and set thy natural faculties in its stead; not above nature, nought but Ima<g ref="char:EOLhyphen"/>ginations.</p>
+            <trailer>THE END,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
